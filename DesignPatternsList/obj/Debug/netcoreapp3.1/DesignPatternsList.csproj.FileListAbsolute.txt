@@ -1,0 +1,13 @@
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\bin\Debug\netcoreapp3.1\DesignPatternsList.exe
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\bin\Debug\netcoreapp3.1\DesignPatternsList.deps.json
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\bin\Debug\netcoreapp3.1\DesignPatternsList.runtimeconfig.json
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\bin\Debug\netcoreapp3.1\DesignPatternsList.runtimeconfig.dev.json
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\bin\Debug\netcoreapp3.1\DesignPatternsList.dll
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\bin\Debug\netcoreapp3.1\DesignPatternsList.pdb
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\obj\Debug\netcoreapp3.1\DesignPatternsList.csprojAssemblyReference.cache
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\obj\Debug\netcoreapp3.1\DesignPatternsList.AssemblyInfoInputs.cache
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\obj\Debug\netcoreapp3.1\DesignPatternsList.AssemblyInfo.cs
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\obj\Debug\netcoreapp3.1\DesignPatternsList.csproj.CoreCompileInputs.cache
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\obj\Debug\netcoreapp3.1\DesignPatternsList.dll
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\obj\Debug\netcoreapp3.1\DesignPatternsList.pdb
+C:\Development\DesignPatterns\DesignPatternsList\DesignPatternsList\obj\Debug\netcoreapp3.1\DesignPatternsList.genruntimeconfig.cache
